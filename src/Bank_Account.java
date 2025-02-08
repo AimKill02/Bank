@@ -1,8 +1,8 @@
 public class Bank_Account {
     // Initial
     protected final String Name;
-    protected  final String Card_Number;
-    protected  final int CVC;
+    protected final String Card_Number;
+    protected final int CVC;
     protected double Balance;
 
     // Constructor
